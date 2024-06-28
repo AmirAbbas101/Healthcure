@@ -1,0 +1,3 @@
+Developed a Flask-based web application for medical diagnostics, integrating machine learning models to predict conditions like COVID-19, brain tumors, Alzheimer's, diabetes, pneumonia, and heart disease from user inputs and medical images.
+Implemented preprocessing and model integration techniques using OpenCV, TensorFlow, and scikit-learn, achieving accurate predictions by utilizing pre-trained models and custom preprocessing pipelines.
+Designed a user-friendly interface for uploading images and inputting medical data, providing instant diagnostic results, and improving accessibility to advanced medical diagnostics through a web platform.
